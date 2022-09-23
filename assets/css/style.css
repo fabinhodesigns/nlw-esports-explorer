@@ -35,7 +35,7 @@ header div img {
     border-radius: 50%;
 }
 main {
-    max-width: 580px;
+    max-width: 410px;
     width: 90%;
     margin: 32px auto;
     display: grid;
@@ -75,6 +75,9 @@ section ul li {
 section ul li:hover {
     transform: scale(1.1);
 }
+.image-size img {
+    max-height: 8rem;
+}
 .games-list img {
     width: 90px;
     border-radius: 8px;
@@ -83,6 +86,9 @@ section ul li:hover {
     border-radius: 50%;
     width: 70px;
     border: 1px solid #443e54;
+}
+.margin-1rem {
+    margin: 1rem
 }
 
 /* ANIMATIONS */
