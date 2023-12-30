@@ -15,4 +15,4 @@ Projeto contruído no evento Next Level Week da Rocketseat.
 
 ## 📞 Contato
 - freitasfabiano08@gmail.com
-- @fabinhofreitastw
+- @ffabiiin
